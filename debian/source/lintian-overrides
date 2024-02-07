@@ -1,0 +1,4 @@
+python-userpath source: file-without-copyright-information
+python-userpath source: no-debian-changes
+python-userpath source: source-contains-prebuilt-windows-binary
+python-userpath source: source-package-encodes-python-version
